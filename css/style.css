@@ -1,0 +1,72 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.logo{
+    font-size: 30px;
+    color:black ;
+    font-weight: 700;
+    margin:10px;
+
+
+}
+.navBar{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    font-size: 17px;
+    color: black;
+    font-weight: 800;
+    
+
+
+}
+
+.step1{
+    display: flex;
+    justify-content: space-between;
+    gap:30px;
+    margin-right: 10px;
+     
+   
+    
+}
+.step2{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    margin-left: 40px;
+    margin-top: 4px;
+    
+} 
+
+.step2 > li>img {
+     margin-top: 17px;
+     font-size: 30px;
+     font-weight: 700;
+     color:brown;
+     
+}
+
+ul{
+    list-style: none;
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.step2 >li > button{
+    font-size: 15px;
+    padding:12px 10px ;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+
+
+
