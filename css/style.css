@@ -297,6 +297,57 @@ a{
     align-items: center;
     
 }
+.section4{
+    background-color: #0A1222;
+    padding: 30px;
+     color: #FFFFFF;
+}
+
+.section4 > .hero1 , .hero2{
+    margin-left: 56px ;
+}
+.section4 > .hero1 > .item1{
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.section4 > .hero1 > .item2{
+    margin-top: 2px;
+}
+
+.section4 > .hero2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.section4 > .hero2 > .part > .item2{
+    color: white;
+    background-color:#034BFF;
+    border-radius: 50%;
+    padding: 12px;
+    
+}
+
+.section4 > .hero2 > .part > .item3{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 0;
+    
+}
+
+.section4 > .hero2 > .part > .item4{
+    color: white;
+    font-size: 13px;
+    font-weight: 200;
+    
+}
+
+.section4 > .hero2 > .line{
+    display: flex;
+    align-items: center;
+    
+}
+
 
 
 
