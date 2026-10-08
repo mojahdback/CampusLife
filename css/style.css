@@ -178,6 +178,49 @@ a{
     font-size: 17px;
 }
 
+.section2{
+    display: flex;
+    justify-content: space-around;
+}
+.parts{
+    display: flex;
+}
+
+.parts > .part1{
+    margin-top: 45px ;
+    margin-left: 20px;
+}
+.parts > .part2{
+    margin-left: 30px;
+}
+
+.parts > .part3{
+    margin-top: 35px ;
+    margin-left: 50px;
+    font-size: 30px;
+    color: #47526A;
+
+}
+.parts > .part2 > .item1{
+    font-size: 26px;
+    font-weight: 800;
+    color: black;
+    
+}
+
+.parts > .part2 > .item2{
+    font-size: 14px;
+    font-weight: 400;
+    color: #47526A;
+}
+
+
+
+
+
+
+
+
 
 
 
