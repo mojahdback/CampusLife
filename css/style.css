@@ -360,6 +360,95 @@ a{
     
 }
 
+.section5 {
+    padding: 20px 20px;
+    display: flex;
+    gap: 4%;
+}
+
+
+.section5 > .part2 {
+    display: flex;
+    width: 70%;
+    gap: 2%;
+  
+}
+.section5 > .part1 {
+    background-color: #034BFF;
+    width: 305px;
+    height: 214px;
+    border-radius: 7px;
+    padding: 15px 30px;
+    border: solid 2px blue;
+    color: white;
+    width: 30%;
+    
+}
+.section5 > .part1 > .hero1 > .item1 {
+    font-size: 12px;
+}
+.section5 > .part1 > .hero1 > .item2 {
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+.section5 > .part1 > .hero1 > .item3 {
+    font-size: 14px;
+    margin-top: 3px;
+}
+
+.section5 > .part1 > .hero1 > .btn {
+    font-size: 14px;
+    color: #034BFF;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FFFFFF;
+}
+
+
+.section5 > .part2 > .hero{
+    background-color:#FFFFFF;
+    width: 213px;
+    height: 214px;
+    border-radius: 7px;
+    padding: 15px 30px;
+    border: solid 1px #DDE4F0;
+ 
+}
+
+.section5 > .part2 > .hero > .item2{
+    font-size:17px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-top: 3px;
+    margin-bottom: 4px;
+}
+
+.section5 > .part2 > .hero > .item3{
+    color: #47526A;
+    margin-top: 2px;
+}
+
+.section5 > .part2 > .hero > .btn{
+    color: #034BFF;
+    border-radius:5px;
+    border: solid 2px blue;
+    width: 220px;
+    height: 32px;
+    background-color: #FFFFFF;
+    font-size:15px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+
+
+
+
+
 
 
 
