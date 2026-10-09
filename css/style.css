@@ -445,6 +445,14 @@ a{
     margin-top: 10px;
 }
 
+footer > .hero1 {
+    display: flex;
+}
+
+footer > .hero2 {
+    display: flex;
+    justify-content: space-between;
+}
 
 
 
