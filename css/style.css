@@ -159,7 +159,7 @@ a{
 
 .word5 > .items > .item{
     background-color: #B8C9CF;
-    border-radius: 360%;
+    border-radius: 50%;
     display: inline-block;
     border: none;
     margin: 20px 0;
@@ -297,6 +297,8 @@ a{
     align-items: center;
     
 }
+
+/* section 4 */
 .section4{
     background-color: #0A1222;
     padding: 30px;
@@ -309,14 +311,22 @@ a{
 .section4 > .hero1 > .item1{
     margin-top: 5px;
     margin-bottom: 2px;
+    font-size: 46px;
+    
 }
 .section4 > .hero1 > .item2{
     margin-top: 2px;
+    font-size: 19px;
 }
 
 .section4 > .hero2{
     display: flex;
     justify-content: space-around;
+}
+
+.section4 > .hero2 > .part > .item1 {
+    color: white;
+    margin-left: 13px;
 }
 
 .section4 > .hero2 > .part > .item2{
@@ -345,9 +355,10 @@ a{
 .section4 > .hero2 > .line{
     display: flex;
     align-items: center;
+    margin-right: 60px;
+    margin-bottom: 60px;
     
 }
-
 
 
 
